@@ -1,4 +1,4 @@
-lion
+lion Contributor01
 trigger
 leopard
 turtle
